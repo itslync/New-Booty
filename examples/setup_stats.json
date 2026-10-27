@@ -1,0 +1,23 @@
+[
+  {
+    "name": "PDH breakout-retest",
+    "win_rate": 0.82,
+    "avg_win_r": 2.1,
+    "avg_loss_r": -1.0,
+    "n": 240
+  },
+  {
+    "name": "VWAP reclaim",
+    "win_rate": 0.74,
+    "avg_win_r": 1.7,
+    "avg_loss_r": -1.0,
+    "n": 180
+  },
+  {
+    "name": "Opening range fade",
+    "win_rate": 0.81,
+    "avg_win_r": 1.6,
+    "avg_loss_r": -1.0,
+    "n": 64
+  }
+]
